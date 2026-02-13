@@ -116,6 +116,24 @@ Sistema completo de gestão para lava-jatos com backend Python e frontend JavaSc
 
 ---
 
+### 🏥 MedTriagem-Inteligente
+**Intelligent Medical Triage System**
+
+Sistema completo de triagem médica inteligente para gestão de filas de atendimento em ambientes hospitalares de emergência. Desenvolvido com Python no backend e JavaScript no frontend.
+
+**Principais Features:**
+- ✅ Sistema de triagem baseado em prioridade
+- ✅ Gestão inteligente de filas de atendimento
+- ✅ Interface web responsiva
+- ✅ Backend robusto em Python
+- ✅ Painel de controle em tempo real
+
+**Stack:** `Python` `JavaScript` `HTML` `CSS`
+
+[![Repo](https://img.shields.io/badge/-View_Repository-080c14?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Weberton-Reis/MedTriagem-Inteligente)
+
+---
+
 ### 💼 ConciliaPro Backend
 **Financial Reconciliation System**
 
