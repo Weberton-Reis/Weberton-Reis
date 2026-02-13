@@ -96,13 +96,20 @@ const weberton = {
 
 **🎯 Competências em QA**
 
-```text
-E2E Testing          ████████████████████░  95%
-Test Automation      ███████████████████░░  90%
-BDD/TDD              ██████████████████░░░  85%
-CI/CD Integration    ███████████████████░░  90%
-Performance Testing  ████████████████░░░░░  75%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/E2E_Testing-95%25-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Test_Automation-90%25-success?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BDD/TDD-85%25-informational?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CI/CD_Integration-90%25-success?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance_Testing-75%25-blue?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/API_Testing-88%25-success?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" />
+</p>
 
 </div>
 
