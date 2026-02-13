@@ -19,7 +19,7 @@
 
 </div>
 
-Desenvolvedor Full Stack apaixonado por criar **soluções robustas e escaláveis** para os setores **financeiro** e de **saúde**. Experiência sólida em arquitetura de sistemas enterprise, desenvolvimento mobile e aplicações web modernas.
+Desenvolvedor Full Stack e **QA Engineer** apaixonado por criar **soluções robustas e escaláveis** para os setores **financeiro** e de **saúde**. Experiência sólida em arquitetura de sistemas enterprise, desenvolvimento mobile, aplicações web modernas e **engenharia de testes E2E**.
 
 ```typescript
 const weberton = {
@@ -27,6 +27,7 @@ const weberton = {
   foco: ["Enterprise Systems", "Fintech", "Healthcare"],
   código: ["Java", "Python", "TypeScript", "Kotlin", "Dart"],
   arquitetura: ["Microservices", "REST APIs", "Clean Architecture"],
+  qa: ["E2E Testing", "Cypress", "Playwright", "Selenium", "Jest"],
   disponível: true
 };
 ```
@@ -43,11 +44,46 @@ const weberton = {
 
 </div>
 
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🛠️ Stack Tecnológica
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres,react,ts,js,tailwind,vite,kotlin,android,flutter,dart,docker,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,aws,react,angular,ts,js,tailwind,vite,figma,kotlin,android,flutter,dart,docker,git,github&perline=11" />
   </a>
 </p>
+
+<br>
+
+<div align="center">
+
+### 🧪 Especialização em Testes E2E
+
+**Experiência sólida em Quality Assurance e Engenharia de Testes**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,playwright,jest,selenium" />
+  </a>
+</p>
+
+**Expertise:**
+- ✅ Testes End-to-End com Cypress e Playwright
+- ✅ Automação de testes com Selenium
+- ✅ Testes unitários e de integração com Jest
+- ✅ CI/CD pipelines com testes automatizados
+- ✅ BDD/TDD com Gherkin e Cucumber
+
+</div>
 
 <br>
 
@@ -61,14 +97,14 @@ const weberton = {
 
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Weberton-Reis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weberton-Reis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weberton-Reis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weberton-Reis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Weberton-Reis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Weberton-Reis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
 
 <br>
 
