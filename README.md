@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Weberton%20Gustavo%20dos%20Reis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20•%20Python%20•%20React%20•%20Mobile&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Weberton%20Gustavo%20dos%20Reis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20QA%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,13 +13,14 @@
 
 <br>
 
+## 👨‍💻 Sobre Mim
+
 <div align="center">
-  
-### 👨‍💻 Sobre Mim
+
+Desenvolvedor Full Stack e **QA Engineer** especializado em criar **soluções robustas e escaláveis**  
+Experiência em **Enterprise Systems**, **Fintech**, **Healthcare** e **Engenharia de Testes E2E**
 
 </div>
-
-Desenvolvedor Full Stack e **QA Engineer** apaixonado por criar **soluções robustas e escaláveis** para os setores **financeiro** e de **saúde**. Experiência sólida em arquitetura de sistemas enterprise, desenvolvimento mobile, aplicações web modernas e **engenharia de testes E2E**.
 
 ```typescript
 const weberton = {
@@ -34,46 +35,44 @@ const weberton = {
 
 <br>
 
----
-
-<br>
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-## 🛠️ Stack Tecnológica
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🛠️ Stack Tecnológica
-
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,aws,react,angular,ts,js,tailwind,vite,figma,kotlin,android,flutter,dart,docker,git,github&perline=11" />
-  </a>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,aws" />
 </p>
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,tailwind,vite,figma" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+</div>
+
 <br>
+
+## 🧪 Especialização em Testes E2E
 
 <div align="center">
 
-### 🧪 Especialização em Testes E2E
+**Quality Assurance & Test Automation**
 
-**Experiência sólida em Quality Assurance e Engenharia de Testes**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,playwright,jest,selenium" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 **Expertise:**
@@ -87,67 +86,43 @@ const weberton = {
 
 <br>
 
----
-
-<br>
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
-</div>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weberton-Reis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weberton-Reis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</div>
+  
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Weberton-Reis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Weberton-Reis)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weberton-Reis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Weberton-Reis)
 
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=Weberton-Reis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Weberton-Reis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/Weberton-Reis)
+
 </div>
 
 <br>
-
----
-
-<br>
-
-<div align="center">
 
 ## 🚀 Projetos em Destaque
 
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 💼 MaximizeOps
 **Sistema de Gestão Empresarial**
 
 Arquitetura enterprise com Spring Boot e React. Testes BDD com Gherkin.
 
-**Tech Stack:**
-- Java/Spring Boot
-- TypeScript/React
-- Docker
-- Gherkin/BDD
+**Stack:** Java • Spring Boot • TypeScript • React • Docker
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/MaximizeOps)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 💳 MaximizePay
 **Plataforma de Pagamentos**
 
 Sistema escalável de processamento de pagamentos com automação Python.
 
-**Tech Stack:**
-- Java/Spring Boot
-- Python
-- TypeScript
-- Docker
+**Stack:** Java • Spring Boot • Python • TypeScript • Docker
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/MaximizePay)
 
@@ -155,33 +130,26 @@ Sistema escalável de processamento de pagamentos com automação Python.
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏥 MedTriagem-Inteligente
 **Sistema de Triagem Médica**
 
 Gestão inteligente de filas hospitalares com priorização automática.
 
-**Tech Stack:**
-- Python
-- JavaScript
-- HTML/CSS
+**Stack:** Python • JavaScript • HTML • CSS
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/MedTriagem-Inteligente)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏦 Sistema Bancário
 **Aplicação Bancária Completa**
 
 Interface moderna com React, Tailwind CSS e shadcn/ui.
 
-**Tech Stack:**
-- React
-- JavaScript
-- Tailwind CSS
-- Vite
+**Stack:** React • JavaScript • Tailwind CSS • Vite
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/Sistemabancario)
 
@@ -189,30 +157,26 @@ Interface moderna com React, Tailwind CSS e shadcn/ui.
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏥 AgiMed
 **App de Gestão de Saúde**
 
 Aplicativo Android para agendamento de consultas e comunicação médico-paciente.
 
-**Tech Stack:**
-- Kotlin
-- Android
+**Stack:** Kotlin • Android
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/AgiMed)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 💼 ConciliaPro Backend
 **Conciliação Bancária**
 
 Automação de processos financeiros com arquitetura enterprise.
 
-**Tech Stack:**
-- Java/Spring Boot
-- PostgreSQL
+**Stack:** Java • Spring Boot • PostgreSQL
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Weberton-Reis/conciliapro-backend)
 
@@ -234,13 +198,9 @@ Automação de processos financeiros com arquitetura enterprise.
 
 <br>
 
----
-
-<br>
+## 📫 Entre em Contato
 
 <div align="center">
-
-## 📫 Entre em Contato
 
 **Aberto a oportunidades e colaborações!**
 
