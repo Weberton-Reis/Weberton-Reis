@@ -67,20 +67,42 @@ const weberton = {
 
 <div align="center">
 
-**Quality Assurance & Test Automation**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=cypress" width="65px" alt="Cypress"/><br>
+<sub><b>Cypress</b></sub><br>
+<img src="https://img.shields.io/badge/Expert-4CAF50?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /><br>
+<sub><b>E2E Testing</b></sub><br>
+<img src="https://img.shields.io/badge/Advanced-2196F3?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=selenium" width="65px" alt="Selenium"/><br>
+<sub><b>Selenium</b></sub><br>
+<img src="https://img.shields.io/badge/Advanced-2196F3?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /><br>
+<sub><b>Unit Testing</b></sub><br>
+<img src="https://img.shields.io/badge/Expert-4CAF50?style=flat-square" />
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,selenium" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</p>
+<br>
 
-**Expertise:**
-- ✅ Testes End-to-End com Cypress e Playwright
-- ✅ Automação de testes com Selenium
-- ✅ Testes unitários e de integração com Jest
-- ✅ CI/CD pipelines com testes automatizados
-- ✅ BDD/TDD com Gherkin e Cucumber
+**🎯 Competências em QA**
+
+```text
+E2E Testing          ████████████████████░  95%
+Test Automation      ███████████████████░░  90%
+BDD/TDD              ██████████████████░░░  85%
+CI/CD Integration    ███████████████████░░  90%
+Performance Testing  ████████████████░░░░░  75%
+```
 
 </div>
 
@@ -90,30 +112,18 @@ const weberton = {
 
 <div align="center">
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Weberton-Reis&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/Weberton-Reis)
-
-### 📈 Estatísticas & Linguagens
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Weberton-Reis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weberton-Reis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
-### 🔥 Sequência de Contribuições
-
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Weberton-Reis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
-### 📊 Gráfico de Atividade
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Weberton-Reis&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/Weberton-Reis)
-
-### 💻 Tempo de Código (Wakatime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Weberton-Reis&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" />
+</p>
 
 </div>
 
